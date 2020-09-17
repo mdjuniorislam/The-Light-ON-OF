@@ -1,0 +1,42 @@
+.Bati{
+    width: 100%;
+    height: 100vh;
+    margin: auto;
+    background: #000;
+    
+}
+
+
+h2{
+    font-size: 50px;
+    color: bisque;
+    text-transform: uppercase;
+    background: #000;
+    text-decoration: bold;
+    text-align: center;
+}
+
+p{
+    font-size: 50px;
+    color: greenyellow;
+    text-transform: uppercase;
+    background: #000;
+    text-decoration: bold;
+    text-align: center;
+}
+
+.Bati button{
+    text-align: center;
+    font-size: 30px;
+  margin-top: 200px;
+  margin-left: 10px;
+
+}
+
+button{
+    font-size: 30px;
+    background:rgb(90, 219, 58);
+   border: 5px solid rgb(224, 21, 72);
+   border-radius: 6px;
+  
+}
